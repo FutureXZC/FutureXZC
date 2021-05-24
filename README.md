@@ -1,16 +1,12 @@
 ### Hi there 👋
 
 <a href="https://github.com/FutureXZC">
-  <img alt="A" src="https://img.shields.io/badge/Github-FutureXZC-%23FFF" />
+  <img alt="Github-FutureXZC" src="https://img.shields.io/static/v1?logo=github&logoColor=rgb(255,255,255)&label=&message=github&color=rgb(24,23,23)&style=for-the-badge" />
 </a>
 
 <a href="https://leetcode-cn.com/u/xiang-26/">
-  <img alt="A" src="https://img.shields.io/badge/Leetcode-Xiang-yellow" />
-</a>
-
-<a href="https://blog.csdn.net/qq_41982726?spm=1000.2115.3001.5343">
-  <img alt="A" https://img.shields.io/badge/CSDN-red" />
-</a>
+  <img alt="Letcode-xiang" src="https://img.shields.io/static/v1?logo=Leetcode&logoColor=FFF&label=&message=Leetcode&color=FFA116&style=for-the-badge" />
+</a>  
 
 - 🏫 I'm studying in **Nanjing University of Posts and Telecommunications for a master's degree**
 - 🔭 I’m currently working on **Sketch Based 3D Retrieval**
