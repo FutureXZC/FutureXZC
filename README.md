@@ -14,3 +14,5 @@
 - 📫 How to reach me: **1220044917@njupt.edu.cn**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FutureXZC)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureXZC&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
