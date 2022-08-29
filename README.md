@@ -10,7 +10,7 @@
 
 - 🏫 I'm studying in **Nanjing University of Posts and Telecommunications for a master's degree**
 - 🔭 I’m currently working on **Sketch Based 3D Retrieval**
-- 🌱 I’m currently learning **Web Full Stack Technology**
+- 🌱 I’m currently learning **Web Full Stack Technology and Data Visualization**
 - 📫 How to reach me: **futurexzc@qq.com**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FutureXZC)](https://github.com/anuraghazra/github-readme-stats)
