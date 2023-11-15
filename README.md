@@ -11,7 +11,7 @@
 - 🚁 I am currently working as a **Front-End Development Engineer** in **DJI**
 - 🌱 I’m currently learning **Web Full Stack Technology and Data Visualization**
 - 🏫 I used to study at **Nanjing University of Posts and Telecommunications for a master's degree**
-- 🔭 I worked on **Sketch Based 3D Retrieval**
+- 🔭 I used to work on **Sketch Based 3D Shape Retrieval**
 - 📫 How to reach me: **futurexzc@qq.com**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FutureXZC)](https://github.com/anuraghazra/github-readme-stats)
