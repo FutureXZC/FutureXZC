@@ -8,9 +8,10 @@
   <img alt="Letcode-xiang" src="https://img.shields.io/static/v1?logo=Leetcode&logoColor=FFF&label=&message=Leetcode&color=FFA116&style=for-the-badge" />
 </a>  
 
-- 🏫 I'm studying in **Nanjing University of Posts and Telecommunications for a master's degree**
-- 🔭 I’m currently working on **Sketch Based 3D Retrieval**
+- 🚁 I am currently working as a **front-end development engineer** in **DJI**
 - 🌱 I’m currently learning **Web Full Stack Technology and Data Visualization**
+- 🏫 I used to study at **Nanjing University of Posts and Telecommunications for a master's degree**
+- 🔭 I worked on **Sketch Based 3D Retrieval**
 - 📫 How to reach me: **futurexzc@qq.com**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FutureXZC)](https://github.com/anuraghazra/github-readme-stats)
