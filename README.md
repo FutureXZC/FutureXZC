@@ -8,7 +8,7 @@
   <img alt="Letcode-xiang" src="https://img.shields.io/static/v1?logo=Leetcode&logoColor=FFF&label=&message=Leetcode&color=FFA116&style=for-the-badge" />
 </a>  
 
-- 🚁 I am currently working as a **Front-End Development Engineer** in **DJI**
+- 🚁 I am currently working as a **Full Stack Development Engineer** in **DJI**
 - 🌱 I’m currently learning **Web Full Stack Technology and Data Visualization**
 - 🏫 I used to study at **Nanjing University of Posts and Telecommunications for a master's degree**
 - 🔭 I used to work on **Sketch Based 3D Shape Retrieval**
